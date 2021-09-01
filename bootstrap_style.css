@@ -1,0 +1,44 @@
+#banner_image{
+	padding-top: 2%;
+	padding-bottom: 4%;
+	text-align: center;
+	color: #f8f8f8;
+	background: url(intro-bg_11.jpg) no-repeat center;
+	background-size: cover;
+}
+#banner_content{
+	position: relative;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	margin-top: 12%;
+	margin-bottom: 12%;
+	margin-right: 12%;
+	margin-left: 12%;
+	text-align: center;
+}
+h3{
+	font-size: 180%;
+}	
+p{
+	font-size: 95%;
+}
+.s2{
+	margin: 0% 0% 0% 0%;
+	padding-left: 7%;
+	padding-right: 7%;
+	font-size: 100%;
+}
+.column_style2{
+				margin-left: 26.5%;
+				margin-right: auto;
+				margin-top: 0px;
+				margin-bottom: 0px;
+				padding: 5px 0px 20px 0px;
+				background-color: rgba(0, 0, 0, 0.7);
+			}
+#footer{
+	color: white;
+	text-align: center;
+	padding-top: 1%;
+}
+
